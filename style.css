@@ -1,4 +1,26 @@
-body {
-    width: 50%;
-    color: blue;
+main {
+  max-width: 70%;
+  padding: 3vw;
+  align-content: center;
+  background-color: lightgray;
+  margin: 0 auto;
+}
+
+.contact{
+  float: left;
+  width: 30%;
+  display: flex;
+  justify-content: left;
+  align-content: center;
+  font-family: "Varela Round";
+  font-size: 18px;
+}
+
+.contact img {
+  max-width: 3vw;
+  padding-left: 6vw;
+}
+
+.span {
+    margin-bottom: 2vh;
 }
