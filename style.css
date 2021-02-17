@@ -2,7 +2,8 @@ main {
   max-width: 60%;
   margin: 0 auto;
   padding: 2vw;
-  border: .3vw solid darkgray;
+  border: 1px solid;
+  box-shadow: 8px 8px 2px 1px rgba(0, 0, 255, .2);
   font-family: "Open Sans";
   font-size: 18px;
 }
